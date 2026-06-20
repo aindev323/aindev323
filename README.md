@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+%E2%9C%A8)
 
-<!--
-**aindev323/aindev323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 이곳은 프로젝트 및 소스 코드 저장소입니다.
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Portfolio-Projects-A78BFA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Code-Archive-60A5FA?style=for-the-badge"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+[View Portfolio 🚀](https://your-site.com)
+<br>
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ain323)](https://github.com/anuraghazra/github-readme-stats)
+</div>
